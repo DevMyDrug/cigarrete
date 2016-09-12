@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.baptiste.cigarrete.Recompense"
+    android:orientation="vertical"
+    android:background="@color/blue">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        android:background="@color/header">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/recompense"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="25dp"/>
+    </LinearLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableRow>
+            <LinearLayout android:orientation="vertical"
+                android:layout_height="150dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@color/BElectric"
+                android:layout_column="1"
+                android:onClick="onClickConso">
+                <ImageView
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/flavours"
+                    android:layout_gravity="center"/>
+                <TextView android:layout_column="1"
+                    android:text="@string/RecCons"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="20sp"
+                    />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical"
+                android:layout_height="150dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@color/blue2"
+                android:layout_column="1"
+                android:onClick="onClickInfo">
+                <ImageView
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/info"
+                    android:layout_gravity="center"/>
+                <TextView android:layout_column="1"
+                    android:text="@string/RecInfo"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="20sp"
+                    />
+            </LinearLayout>
+        </TableRow>
+        <TableRow>
+            <LinearLayout android:orientation="vertical"
+                android:layout_height="150dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@color/blue3"
+                android:layout_column="1"
+                android:onClick="onClickSport">
+                <ImageView
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/sport"
+                    android:layout_gravity="center"/>
+
+                <TextView android:layout_column="1"
+                    android:text="@string/RecSport"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="20sp"
+                    />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical"
+                android:layout_height="150dp"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:background="@color/bClaire"
+                android:layout_column="1"
+                android:onClick="onClickPerso">
+                <ImageView
+                    android:layout_height="70dp"
+                    android:layout_width="70dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/perso"
+                    android:layout_gravity="center"/>
+                <TextView android:layout_column="1"
+                    android:text="@string/perso"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="20sp"
+                    />
+            </LinearLayout>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

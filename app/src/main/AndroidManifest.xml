@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.baptiste.cigarrete" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Demarrage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Inscription"
+            android:label="@string/title_activity_inscription" >
+        </activity>
+        <activity
+            android:name=".Conseil"
+            android:label="@string/title_activity_conseil" >
+        </activity>
+        <activity
+            android:name=".Conseil_Geste"
+            android:label="@string/title_activity_conseil__geste" >
+        </activity>
+        <activity
+            android:name=".Conseil_Gout"
+            android:label="@string/title_activity_conseil__gout" >
+        </activity>
+        <activity
+            android:name=".Conseil_Nico"
+            android:label="@string/title_activity_conseil__nico" >
+        </activity>
+        <activity
+            android:name=".Graph"
+            android:label="@string/title_activity_graph" >
+        </activity>
+        <activity
+            android:name=".Objectif"
+            android:label="@string/title_activity_objectif" >
+        </activity>
+        <activity
+            android:name=".Sante"
+            android:label="@string/title_activity_sante" >
+        </activity>
+        <activity
+            android:name=".Recompense"
+            android:label="@string/title_activity_recompense" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Src_Motivation"
+            android:label="@string/title_activity_src__motivation" >
+        </activity>
+        <activity
+            android:name=".RecSport"
+            android:label="@string/title_activity_rec_sport" >
+        </activity>
+        <activity
+            android:name=".RecInfo"
+            android:label="@string/title_activity_rec_info" >
+        </activity>
+        <activity
+            android:name=".RecConso"
+            android:label="@string/title_activity_rec_conso" >
+        </activity>
+        <activity
+            android:name=".Cig_Smoke_Today"
+            android:label="@string/title_activity_cig__smoke__today" >
+        </activity>
+        <activity
+            android:name=".Objectif_Perso"
+            android:label="@string/title_activity_objectif__perso" >
+        </activity>
+        <activity
+            android:name=".ADD_Objectif"
+            android:label="@string/title_activity_add__objectif" >
+        </activity>
+
+        <receiver android:name=".widgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider"
+                android:resource="@xml/my_widget_info"/>
+        </receiver>
+    </application>
+
+</manifest>

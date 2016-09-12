@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">cig\'arrete</string>
+    <string name="Hi">Hello</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Prenom">First name</string>
+    <string name="Nom">Name</string>
+    <string name="cig_moy">Cigarette per days</string>
+    <string name="Prix_Paq">price of a paquet</string>
+    <string name="cig_paquet">cigarette per paquet</string>
+    <string name="prix_cig">Price per cigarette</string>
+    <string name="title_activity_inscription">Subscribe</string>
+    <string name="Valider">Confirm</string>
+    <string name="title_activity_conseil">Advice</string>
+    <string name="title_activity_conseil__geste">Gestures</string>
+    <string name="title_activity_conseil__gout">Flavor</string>
+    <string name="title_activity_conseil__nico">Nicotine</string>
+    <string name="title_activity_graph">consumption monitoring</string>
+    <string name="day_with_smoke">Days without smoking: </string>
+    <string name="cig_no_smoke">Cigarette not smoke</string>
+    <string name="eco">save money </string>
+    <string name="objectif">goals</string>
+    <string name="health">Health</string>
+    <string name="title_activity_sante">Health</string>
+    <string name="title_activity_recompense">Rewards</string>
+
+    
+    <string name="title_activity_src__motivation">Motivation</string>
+
+    <string name="RecCons">Edible</string>
+    <string name="RecSport">Athletic equipment</string>
+    <string name="RecInfo">Hardware</string>
+    
+    <string name="title_activity_rec_sport">Atletic rewards</string>
+    <string name="title_activity_rec_info">Hardware rewards</string>
+    <string name="title_activity_rec_conso">Edibles rewards</string>
+
+    <string name="Motivation">Motivation</string>
+    <string name="Recompense">Reward</string>
+    <string name="title_activity_cig__smoke__today">Consumption of today</string>
+
+
+    <string name="errDate">You have already entered your consumption today</string>
+    <string name="errSubs">Please fill all case</string>
+
+    <string name="semaine">Week</string>
+    <string name="conseil">Advice</string>
+    <string name="title_activity_demarrage">Start</string>
+    <string name="title_activity_objectif">Goals</string>
+    <string name="enterCons">Please enter your today consumption</string>
+
+    <string name="adapterPossess">€. You can buy: </string>
+    <string name="adapterProchain">€ for another one</string>
+    <string name="adapterCout">This product cost:</string>
+    <string name="adapterManque">."Miss you "</string>
+    <string name="recompense">Award</string>
+
+    <string name="suivi">monitoring</string>
+
+    <string name="title_activity_objectif__perso">Personal goals</string>
+
+    <string name="addObj">New Goal</string>
+    <string name="title_activity_add__objectif">Add goal</string>
+    <string name="price">Price: </string>
+    <string name="perso">Personnal</string>
+    <string name="Intituler">Title</string>
+    <string name="aout">August</string>
+    <string name="avril">April</string>
+    <string name="cigarette">ccigarette(s)</string>
+    <string name="adapterCoût">This product cost:</string>
+    <string name="correspond">" and it's: "</string>
+    <string name="decembre">December</string>
+    <string name="dimanche">Sunday</string>
+    <string name="fevrier">February</string>
+    <string name="janvier">January</string>
+    <string name="jeudi">Thursday</string>
+    <string name="juillet">July</string>
+    <string name="juin">June</string>
+    <string name="lundi">Monday</string>
+    <string name="mai">May</string>
+    <string name="mardi">Tuesday</string>
+    <string name="mars">March</string>
+    <string name="mercedi">Wednesday</string>
+    <string name="mois">Month</string>
+    <string name="novembre">November</string>
+    <string name="octobre">October</string>
+    <string name="samedi">Saturday</string>
+    <string name="septembre">September</string>
+    <string name="vendredi">Friday</string>
+
+
+    <string name="cig">cigarette(s)</string>
+    <string name="add">Add</string>
+
+    <string name="consToday">Enter your consumption</string>
+    <string name="addConso">Add your todays consumption </string>
+    <string name="enterConso">Please enter your consumption :</string>
+
+    <string name="ConsGout"> Advice about flavor :</string>
+    <string name="ConsGest"> Advice about gesture :</string>
+    <string name="ConsNico"> Advice about nicotine :</string>
+
+    <string name="Monitoring">Your consumption monitoring</string>
+
+    <string name="subscription"> Please enter all information </string>
+    <string name="PersoGoals">Your personal goals :</string>
+
+    <string name="infoSante"> Information about health</string>
+    <string name="MotivationTxt"> Source of motivation </string>
+    <string name="widget">You consumme: </string>
+    <string name="gain1">Earnings of 1€ </string>
+    <string name="gain10">Earnings of 250€</string>
+    <string name="gain11">Earnings of 500€</string>
+    <string name="gain12">Earnings of 750€</string>
+    <string name="gain13">Earnings of 1000€</string>
+    <string name="gain14">Earnings of 2500€</string>
+    <string name="gain15">Earnings of 5000€</string>
+    <string name="gain2">Earnings of 5€</string>
+    <string name="gain3">Earnings of 10€</string>
+    <string name="gain4">Earnings of 25€</string>
+    <string name="gain5">Earnings of 50€</string>
+    <string name="gain6">Earnings of 75€</string>
+    <string name="gain7">Earnings of 100€</string>
+    <string name="gain8">Earnings of 150€</string>
+    <string name="gain9">Earnings of 200€</string>
+
+    <!-- Array value :  -->
+</resources>

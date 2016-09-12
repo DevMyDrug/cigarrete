@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue">#1144AA</color>
+    <color name="red">#F5001D</color>
+    <color name="gold">#ff5300</color>
+    <color name="black">#000000</color>
+    <color name="green">#33FF33</color>
+    <color name="grey">#0f0f0f</color>
+    <color name="white">#ffffff</color>
+    <color name="purple">#6C0AAB</color>
+    <color name="greyMenu">#282626</color>
+
+
+    <color name="header">#1E7FCB</color>
+    <color name="BElectric">#2C75FF</color>
+    <color name="blue2">#0F9DE8</color>
+    <color name="blue3">#318CE7</color>
+    <color name="bClaire">#77B5FE</color>
+</resources>

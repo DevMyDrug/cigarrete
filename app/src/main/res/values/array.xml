@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!---> Les valeurs sont à entrer dans le string.xml pour les traduction puis retranscrire ici -->
+
+    <array name="ObjMoney">
+        <item>@string/gain1</item>
+        <item>@string/gain2</item>
+        <item>@string/gain3</item>
+        <item>@string/gain4 </item>
+        <item>@string/gain5</item>
+        <item>@string/gain6</item>
+        <item>@string/gain7</item>
+        <item>@string/gain8</item>
+        <item>@string/gain9</item>
+        <item>@string/gain10</item>
+        <item>@string/gain11</item>
+        <item>@string/gain12</item>
+        <item>@string/gain13</item>
+        <item>@string/gain14</item>
+        <item>@string/gain15</item>
+    </array>
+
+    <array name="condMoney">
+        <item>"1"</item>
+        <item>"5"</item>
+        <item>"10"</item>
+        <item>"25"</item>
+        <item>"50"</item>
+        <item>"75"</item>
+        <item>"100"</item>
+        <item>"150"</item>
+        <item>"200"</item>
+        <item>"250"</item>
+        <item>"500"</item>
+        <item>"750"</item>
+        <item>"1000"</item>
+        <item>"2500"</item>
+        <item>"5000"</item>
+    </array>
+
+    <array name="ObjConsArret">
+        <item>24 heures sans consommation</item>
+        <item>3 jours sans consommation</item>
+        <item>1 semaine sans consommation</item>
+        <item>2 semaines sans consommation </item>
+        <item>1 mois sans consommation</item>
+        <item>3 mois sans consommation</item>
+        <item>6 mois sans consommation</item>
+        <item>1 an sans consommation</item>
+        <item>5 ans sans consommation</item>
+        <item>10 ans sans consommation</item>
+        <item>15 ans sans consommation</item>
+    </array>
+
+    <array name="condObjArret">
+        <item>"1"</item>
+        <item>"3"</item>
+        <item>"7"</item>
+        <item>"14"</item>
+        <item>"30"</item>
+        <item>"90"</item>
+        <item>"180"</item>
+        <item>"365"</item>
+        <item>"1825"</item>
+        <item>"3650"</item>
+        <item>"5475"</item>
+    </array>
+
+
+    <array name="RecompInformatique">
+        <item>Souris</item>
+        <item>Clavier</item>
+        <item>Montre Connecté</item>
+        <item>Téléphone</item>
+        <item>Ecran</item>
+        <item>Ordinateur</item>
+    </array>
+
+    <array name="condInformatique">
+        <item>"15"</item>
+        <item>"25"</item>
+        <item>"85"</item>
+        <item>"200"</item>
+        <item>"250"</item>
+        <item>"1000"</item>
+    </array>
+
+    <array name="RecompConsommation">
+        <item>Croissant</item>
+        <item>Café</item>
+        <item>Demi</item>
+        <item>Pinte</item>
+        <item>Fast-Food</item>
+        <item>Restaurant</item>
+    </array>
+
+    <array name="condRecompConsommation">
+        <item>"0.80"</item>
+        <item>"1.20"</item>
+        <item>"2.50"</item>
+        <item>"5"</item>
+        <item>"8"</item>
+        <item>"13"</item>
+    </array>
+
+    <array name="RecompMatosSportif">
+        <item>Short</item>
+        <item>T-Shirt</item>
+        <item>Ballon</item>
+        <item>Chaussure</item>
+        <item>Altère</item>
+        <item>Baudrier</item>
+        <item>Raquette</item>
+    </array>
+
+    <array name="condMatosSportif">
+        <item>"10"</item>
+        <item>"15"</item>
+        <item>"25"</item>
+        <item>"30"</item>
+        <item>"50"</item>
+        <item>"60"</item>
+        <item>"50"</item>
+    </array>
+
+    <array name="SrcMotivation">
+        <item>Pour me prouver que je peux arrêter</item>
+        <item>Je veux retrouver ma liberté</item>
+        <item>Je veux plus d’énergie et d’endurance</item>
+        <item>Pour ne plus avoir une haleine de fumeur</item>
+        <item>Pour faire des économies</item>
+        <item>Je veux des dents propres et blanches</item>
+        <item>Je veux être meilleurs en sports</item>
+        <item>Je veux être un meilleur exemple pour les enfants</item>
+        <item>Mon conjoint veut que j’arrête</item>
+        <item>Pour être plus productif au travail</item>
+        <item>Pour avoir une peau plus propre</item>
+        <item>Pour diminuer le risque de diabète</item>
+        <item>Pour vivre une longue et sainte vie</item>
+        <item>Pour réduire les dangers liés au cœur</item>
+        <item>Pour réduire mes chances d’infarctus</item>
+        <item>Pour réduire mes chances de cancers</item>
+        <item>Je serais plus apte a récupéré après une chirurgie</item>
+        <item>Je veux embrasser mon conjoint sans le sentiment de culpabilité</item>
+        <item>Je suis fatigué d’avoir des bronchites</item>
+        <item>Pour avoir un meilleur odorat</item>
+        <item>Mes enfants/petits-enfants veulent que j’arrêtes</item>
+        <item>Je veux être un exemple pour les autres</item>
+        <item>Je ne veux pas que mes enfants se mette à fumer</item>
+        <item>Je me suis promis d’arrêter</item>
+        <item>Je crois que je peux arrêter pour de bon</item>
+        <item>Je suis fatigué d’être jugé parce que je fume</item>
+        <item>Je veux que les autres arrête de me demander d’arrêter de fumer</item>
+        <item>Je veux être en formes</item>
+        <item>Je veux garder assez d’énergie pour grandir avec mes enfants</item>
+    </array>
+
+    <array name="ConsGeste">
+        <item>Une balle anti-stress</item>
+        <item>Jouer avec un stylo</item>
+    </array>
+
+    <array name="ConsNicotine">
+
+        <item>Les patchs Nicotiné</item>
+        <item>Les chewin-gum Nicotiné</item>
+        <item>Cigarette électronique au saveur contenant de la nicotine</item>
+    </array>
+
+    <array name="ConsGout">
+        <item>Macher un chewin-gum au goût fort</item>
+        <item>Consommé des dragées ou pastilles</item>
+        <item>Cigarette électronique au saveur sans nicotine</item>
+    </array>
+
+    <array name="Sante">
+        <item> Après 24h sans tabac, le risque d’infarctus du myocarde diminue. Les poumons éliminent
+            le mucus et les résidus de fumé. Le corps ne contient plus de nicotine.</item>
+        <item>Après 48h, l’odorat et le coût s’améliore</item>
+        <item>Après 3 jours la respiration devient plus facile.</item>
+        <item>Passé 2 semaines les poumons se purifient, la capacité physique s’améliore et la peau est plus belle.</item>
+        <item>Après 1 mois, la voix devient plus claire, les risque d’infections diminue.</item>
+        <item>Après 3 mois, la circulation sanguine s’améliore et les poumons s’améliore de 30%.</item>
+        <item>Après 6 mois, le système immunitaire meilleur, capacité physique amélioré, la toux et l’essoufflement diminue.</item>
+        <item>Après la première année, le risque d’infarctus est réduit de moitié par rapport à un fumeur.</item>
+        <item>5 ans après d\'arrêt, le risque de cancer de la bouche, la gorge et de l’œsophage est réduit de moitié,
+            les risques d’AVC réduit est devient comparable au risque d’un non-fumeur.</item>
+        <item>Après 10 ans, le risque de cancer des poumons devient comparable au risque d’un non-fumeur.</item>
+        <item>Après 15 ans, le risque d’infarctus est similaire à celui d’un non-fumeur.</item>
+    </array>
+
+</resources>

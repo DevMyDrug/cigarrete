@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/Conseil" android:title="@string/title_activity_conseil"/>
+    <item android:id="@+id/Main" android:title="@string/app_name"/>
+    <item android:id="@+id/Recompense" android:title="@string/Recompense"/>
+    <item android:id="@+id/Motivation" android:title="@string/Motivation"/>
+    <item android:id="@+id/cig_Today" android:title="@string/title_activity_cig__smoke__today"/>
+    <item android:id="@+id/graph" android:title="@string/suivi"/>
+</menu>
